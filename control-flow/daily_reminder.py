@@ -35,7 +35,7 @@ def main():
             reminder = f"Note: '{task}' has been added to your tasks."
     
     # Display the customized reminder
-    print("\n" + reminder)
+    print(reminder)
 
 if __name__ == "__main__":
     main()
